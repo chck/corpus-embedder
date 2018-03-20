@@ -1,1 +1,1 @@
-# sibyl-nlp
+# corpus-embedder
